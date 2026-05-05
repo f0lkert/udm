@@ -12,7 +12,7 @@ import (
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/models"
 	Nnrf_NFDiscovery "github.com/free5gc/openapi/nrf/NFDiscovery"
-	"github.com/free5gc/openapi/oauth"
+	"github.com/f0lkert/free5gc-fixup/oauth"
 	"github.com/f0lkert/udm/internal/logger"
 	"github.com/f0lkert/udm/pkg/factory"
 	"github.com/f0lkert/udm/pkg/suci"
