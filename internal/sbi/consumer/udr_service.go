@@ -6,8 +6,8 @@ import (
 	"sync"
 
 	Nudr_DataRepository "github.com/free5gc/openapi/udr/DataRepository"
-	udm_context "github.com/free5gc/udm/internal/context"
-	"github.com/free5gc/udm/internal/logger"
+	udm_context "github.com/f0lkert/udm/internal/context"
+	"github.com/f0lkert/udm/internal/logger"
 	sbi_metrics "github.com/free5gc/util/metrics/sbi"
 )
 

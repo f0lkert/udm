@@ -9,7 +9,7 @@ import (
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/models"
 	Nudr_DataRepository "github.com/free5gc/openapi/udr/DataRepository"
-	"github.com/free5gc/udm/internal/logger"
+	"github.com/f0lkert/udm/internal/logger"
 	"github.com/free5gc/util/metrics/sbi"
 	"github.com/free5gc/util/validator"
 )

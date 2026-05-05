@@ -1,8 +1,8 @@
 package processor
 
 import (
-	"github.com/free5gc/udm/internal/sbi/consumer"
-	"github.com/free5gc/udm/pkg/app"
+	"github.com/f0lkert/udm/internal/sbi/consumer"
+	"github.com/f0lkert/udm/pkg/app"
 )
 
 type ProcessorUdm interface {

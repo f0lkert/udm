@@ -9,8 +9,8 @@ import (
 	"go.uber.org/mock/gomock"
 
 	"github.com/free5gc/openapi"
-	udm_context "github.com/free5gc/udm/internal/context"
-	"github.com/free5gc/udm/pkg/app"
+	udm_context "github.com/f0lkert/udm/internal/context"
+	"github.com/f0lkert/udm/pkg/app"
 )
 
 func TestSendRegisterNFInstance(t *testing.T) {

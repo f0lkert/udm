@@ -13,9 +13,9 @@ import (
 	"github.com/free5gc/openapi/models"
 	Nnrf_NFDiscovery "github.com/free5gc/openapi/nrf/NFDiscovery"
 	"github.com/free5gc/openapi/oauth"
-	"github.com/free5gc/udm/internal/logger"
-	"github.com/free5gc/udm/pkg/factory"
-	"github.com/free5gc/udm/pkg/suci"
+	"github.com/f0lkert/udm/internal/logger"
+	"github.com/f0lkert/udm/pkg/factory"
+	"github.com/f0lkert/udm/pkg/suci"
 	"github.com/free5gc/util/idgenerator"
 )
 

@@ -6,8 +6,8 @@ import (
 	"github.com/gin-gonic/gin"
 
 	"github.com/free5gc/openapi/models"
-	udm_context "github.com/free5gc/udm/internal/context"
-	"github.com/free5gc/udm/internal/logger"
+	udm_context "github.com/f0lkert/udm/internal/context"
+	"github.com/f0lkert/udm/internal/logger"
 )
 
 type NFContextGetter func() *udm_context.UDMContext

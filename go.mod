@@ -1,4 +1,4 @@
-module github.com/free5gc/udm
+module github.com/f0lkert/udm
 
 go 1.25.5
 

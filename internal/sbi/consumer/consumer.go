@@ -6,7 +6,7 @@ import (
 	Nudm_SubscriberDataManagement "github.com/free5gc/openapi/udm/SubscriberDataManagement"
 	Nudm_UEContextManagement "github.com/free5gc/openapi/udm/UEContextManagement"
 	Nudr_DataRepository "github.com/free5gc/openapi/udr/DataRepository"
-	"github.com/free5gc/udm/pkg/app"
+	"github.com/f0lkert/udm/pkg/app"
 )
 
 type ConsumerUdm interface {

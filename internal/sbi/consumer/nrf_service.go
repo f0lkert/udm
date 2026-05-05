@@ -12,9 +12,9 @@ import (
 	"github.com/free5gc/openapi/models"
 	Nnrf_NFDiscovery "github.com/free5gc/openapi/nrf/NFDiscovery"
 	Nnrf_NFManagement "github.com/free5gc/openapi/nrf/NFManagement"
-	udm_context "github.com/free5gc/udm/internal/context"
-	"github.com/free5gc/udm/internal/logger"
-	"github.com/free5gc/udm/internal/util"
+	udm_context "github.com/f0lkert/udm/internal/context"
+	"github.com/f0lkert/udm/internal/logger"
+	"github.com/f0lkert/udm/internal/util"
 	sbi_metrics "github.com/free5gc/util/metrics/sbi"
 )
 

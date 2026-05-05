@@ -13,9 +13,9 @@ import (
 
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/models"
-	udm_context "github.com/free5gc/udm/internal/context"
-	"github.com/free5gc/udm/internal/sbi/consumer"
-	mockapp "github.com/free5gc/udm/pkg/mockapp"
+	udm_context "github.com/f0lkert/udm/internal/context"
+	"github.com/f0lkert/udm/internal/sbi/consumer"
+	mockapp "github.com/f0lkert/udm/pkg/mockapp"
 )
 
 func TestGenerateAuthDataProcedure(t *testing.T) {
